@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: ff23032c7eda0ed4fa38c54e340826f7
+timeCreated: 1532853609
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: B_S_001_0
+    21300002: B_S_001_1
+    21300004: B_S_001_2
+    21300006: B_S_001_3
+    21300008: B_S_001_4
+    21300010: B_S_001_5
+    21300012: B_S_001_6
+    21300014: B_S_001_7
+    21300016: B_S_001_8
+    21300018: B_S_001_9
+    21300020: B_S_001_10
+    21300022: B_S_001_11
+    21300024: B_S_001_12
+    21300026: B_S_001_13
+    21300028: B_S_001_14
+    21300030: B_S_001_15
+    21300032: B_S_001_16
+    21300034: B_S_001_17
+    21300036: B_S_001_18
+    21300038: B_S_001_19
+    21300040: B_S_001_20
+    21300042: B_S_001_21
+    21300044: B_S_001_22
+    21300046: B_S_001_23
+    21300048: B_S_001_24
+    21300050: B_S_001_25
+    21300052: B_S_001_26
+    21300054: B_S_001_27
+    21300056: B_S_001_28
+    21300058: B_S_001_29
+    21300060: B_S_001_30
+    21300062: B_S_001_31
+    21300064: B_S_001_32
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: B_S_001_0
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 5200
+        width: 302
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_1
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 5196
+        width: 310
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_2
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 5200
+        width: 313
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_3
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 5200
+        width: 311
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 4488
+        width: 300
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 4490
+        width: 294
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_6
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 4490
+        width: 316
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_7
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 4490
+        width: 320
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3776
+        width: 299
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_9
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 3776
+        width: 322
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_10
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 3776
+        width: 373
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_11
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 3776
+        width: 373
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3064
+        width: 299
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_13
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 3064
+        width: 314
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_14
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 3064
+        width: 321
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_15
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 3066
+        width: 308
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_16
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2352
+        width: 316
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_17
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2352
+        width: 276
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_18
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 2525
+        width: 105
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_19
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 2354
+        width: 274
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_20
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 2352
+        width: 291
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1640
+        width: 299
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_22
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1635
+        width: 303
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_23
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1639
+        width: 300
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_24
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 1642
+        width: 278
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 930
+        width: 266
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_26
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 928
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_27
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 928
+        width: 286
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_28
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 928
+        width: 312
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 218
+        width: 304
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_30
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 218
+        width: 308
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_31
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 216
+        width: 309
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: B_S_001_32
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 216
+        width: 302
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

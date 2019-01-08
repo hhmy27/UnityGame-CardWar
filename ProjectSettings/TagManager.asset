@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - message
+  - Mbox
+  - Hero
+  - Event
+  - Card
+  - OurBatman
+  - EnemyBatman
+  - OurCore
+  - EnemyCore
+  - CardToSee
+  - EnemyHero
+  - newcard
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - batManGroup
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3537881211
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2548519823
+    locked: 0
+  - name: Button
+    uniqueID: 3396041545
+    locked: 0
+  - name: Image
+    uniqueID: 237826801
+    locked: 0
