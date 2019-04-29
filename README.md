@@ -1,10 +1,11 @@
 # 卡牌游戏
-
+欢迎访问我的blog！https://blog.csdn.net/hhmy77/article/details/81454748
 ## 版本
 
 使用Unity 5.6.0f3开发，插件使用Dotween
+![卡组预览](https://img-blog.csdnimg.cn/20190327222422193.gif)
+![打出卡牌效果](https://img-blog.csdnimg.cn/20190327223638242.gif)
 
-![1546943334406](C:\Users\hmy\AppData\Roaming\Typora\typora-user-images\1546943334406.png)
 
 ## 文件
 
