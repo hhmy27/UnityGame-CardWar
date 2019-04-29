@@ -3,7 +3,9 @@
 ## 版本
 
 使用Unity 5.6.0f3开发，插件使用Dotween
+**卡组预览**
 ![卡组预览](https://img-blog.csdnimg.cn/20190327222422193.gif)
+**打出卡牌效果**
 ![打出卡牌效果](https://img-blog.csdnimg.cn/20190327223638242.gif)
 
 
