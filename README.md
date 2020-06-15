@@ -3,6 +3,11 @@
 ## 版本
 
 使用Unity 5.6.0f3开发，插件使用Dotween
+
+如果git上面下载的项目运行不了，可以到百度网盘下载整个项目的压缩包（667MB）
+链接：https://pan.baidu.com/s/1pMB82nCCOSgLOP_UL8wxmA 
+提取码：w8a1
+
 **卡组预览**
 ![卡组预览](https://img-blog.csdnimg.cn/20190327222422193.gif)
 **打出卡牌效果**
